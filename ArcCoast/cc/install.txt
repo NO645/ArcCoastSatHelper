@@ -1,0 +1,7 @@
+conda create -n coastsat11152022 python=3.8 -y
+
+conda activate coastsat11152022
+
+conda install -c conda-forge geopandas earthengine-api scikit-image matplotlib astropy notebook netCDF4 xarray gdal pyshp statsmodels scipy pandas pytz scikit-learn fiona spyder -y
+
+
