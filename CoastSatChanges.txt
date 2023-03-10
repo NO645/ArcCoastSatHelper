@@ -1,0 +1,2 @@
+im_classif added to output
+SDS_prepsrocess, made def create_cloud_mask return array of Falses

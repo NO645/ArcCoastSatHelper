@@ -1,0 +1,36 @@
+
+https://rdedrivepub.erdc.dren.mil/url/pcftwywhpbws6gpk
+5xpssi5p
+
+
+--Install ArcPro
+
+--Install Anaconda
+
+--Install CoastSat Environment
+conda create -n csv2_01052023_2 python=3.8 -y
+
+conda activate csv2_01052023_2
+
+conda install -c conda-forge geopandas earthengine-api scikit-image matplotlib astropy notebook numpy pyshp pandas pytz pyproj matplotlib gdal scipy shapely -y
+
+pip install pyqt5
+
+
+
+
+--where python - for dropping off coastsat package
+
+-- where conda - for finding activate.bat
+
+--Copy Coastsat from temp to site-packages in 'where python' path (or to desktop/cc/coastsat? + edit *.bat to go there)
+
+
+
+-- earthengine authenticate , GCLOUD install?
+
+
+
+--Setup runCC.bat
+
+--Copy SatelliteShorelines to Desktop
