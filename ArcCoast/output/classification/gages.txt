@@ -1,0 +1,997 @@
+SAN DIEGO (Broadway),9410170,32.7142,-117.1736
+South San Diego Bay,9410135,32.6291,-117.1078
+Mission Bay Campland,9410196,32.7937,-117.2238
+La Jolla (Scripps Institution Wharf),9410230,32.8669,-117.2571
+Newport Bay Entrance Corona del Mar,9410580,33.6033,-117.8830
+Long Beach Terminal Island,9410680,33.7517,-118.2270
+LOS ANGELES (Outer Harbor),9410660,33.7199,-118.2729
+Santa Monica Municipal Pier,9410840,34.0083,-118.5000
+Santa Barbara,9411340,34.4031,-119.6928
+Gaviota State Park Pacific Ocean,9411399,34.4694,-120.2283
+Oil Platform Harvest,9411406,34.4692,-120.6819
+Wilson Cove San Clemente Island,9410032,33.0050,-118.5570
+Avalon Santa Catalina Island,9410079,33.3450,-118.3250
+PORT SAN LUIS,9412110,35.1688,-120.7542
+Mansfield Cone,9412802,35.9495,-121.4819
+MONTEREY MONTEREY BAY,9413450,36.6050,-121.8881
+Elkhorn Elkhorn Slough,9413631,36.8183,-121.7470
+Tidal Creek Elkhorn Slough,9413643,36.8333,-121.7450
+Kirby Park Elkhorn Slough,9413651,36.8413,-121.7453
+Elkhorn Slough railroad bridge,9413663,36.8567,-121.7550
+Pillar Point Harbor Half Moon Bay,9414131,37.5025,-122.4822
+SAN FRANCISCO (Golden Gate),9414290,37.8063,-122.4659
+Rincon Point Pier 22 1/2,9414317,37.7900,-122.3870
+Oakland Inner Harbor,9414764,37.7950,-122.2820
+Alameda,9414750,37.7717,-122.3000
+Oakland Harbor Park Street Bridge,9414746,37.7717,-122.2350
+Hunters Point,9414358,37.7300,-122.3570
+San Leandro Marina,9414688,37.6950,-122.1920
+San Mateo Bridge (west end),9414458,37.5800,-122.2530
+Redwood City Wharf 5,9414523,37.5067,-122.2100
+Dumbarton Highway Bridge,9414509,37.5067,-122.1150
+Coyote Creek Alviso Slough,9414575,37.4650,-122.0230
+Berkeley,9414816,37.8650,-122.3070
+Chevron Oil Company Pier Richmond,9414863,37.9230,-122.4096
+Corte Madera Creek,9414874,37.9433,-122.5130
+Mare Island,9415218,38.0700,-122.2500
+Crockett,9415143,38.0583,-122.2230
+Martinez-Amorco Pier,9415102,38.0346,-122.1252
+Suisun Slough entrance,9415265,38.1283,-122.0730
+PORT CHICAGO SUISUN BAY,9415144,38.0560,-122.0395
+Bradmoor Island Nurse Slough,9414811,38.1833,-121.9230
+Mallard Island Ferry Wharf,9415112,38.0433,-121.9180
+Antioch,9415064,38.0200,-121.8150
+Rio Vista,9415316,38.1450,-121.6920
+Pinole Point,9415056,38.0150,-122.3630
+Sonoma Creek,9415338,38.1567,-122.4070
+Bolinas Lagoon,9414958,37.9078,-122.6786
+Point Reyes,9415020,37.9961,-122.9767
+Green Cove,9416409,38.7043,-123.4494
+ARENA COVE,9416841,38.9146,-123.7111
+NOYO HARBOR,9417426,39.4258,-123.8051
+Shelter Cove,9418024,40.0250,-124.0580
+Cockrobin Island Bridge Eel River,9418637,40.6372,-124.2822
+HUMBOLDT BAY (North Spit),9418767,40.7663,-124.2172
+Fields Landing,9418723,40.7233,-124.2220
+Samoa,9418817,40.8267,-124.1800
+CRESCENT CITY,9419750,41.7450,-124.1830
+Pyramid Point Smith River,9419945,41.9453,-124.2009
+Umpqua River Entrance Half Moon Bay,9433445,43.6750,-124.1920
+Reedsport,9433501,43.7083,-124.0980
+Florence USCG Pier,9434098,44.0021,-124.1230
+Cushman Suislaw River,9434068,43.9850,-124.0450
+CHARLESTON,9432780,43.3450,-124.3220
+Southbeach,9435380,44.6250,-124.0430
+Weiser Point Yaquina River,9435308,44.5933,-124.0080
+North Fork Nehalem River,9437954,45.7338,-123.8764
+North Jetty Tillamook Bay,9437585,45.5700,-123.9650
+Garibaldi,9437540,45.5545,-123.9189
+Dick Point,9437381,45.4817,-123.9020
+Gold Beach Rogue River,9431011,42.4216,-124.4187
+Port Orford,9431647,42.7390,-124.4983
+Rink Creek Entrance Coquille River,9432436,43.1579,-124.1818
+Waldport Alsea Bay,9434939,44.4344,-124.0581
+Depoe Bay,9435827,44.8100,-124.0580
+Chinook Bend Siletz River,9435992,44.8800,-123.9636
+Cascade Head Salmon River,9436381,45.0479,-124.0073
+Cape Disappointment,9440581,46.2810,-124.0463
+Hammond Oregon,9439011,46.2017,-123.9450
+Cathcart Landing Youngs River,9438772,46.1243,-123.8043
+ASTORIA (Tongue Point) Oreg.,9439040,46.2073,-123.7683
+Skamokawa,9440569,46.2667,-123.4520
+Wauna,9439099,46.1617,-123.4089
+Cape Horn,9440482,46.1517,-123.2900
+Barlow Point,9440483,46.1522,-123.0392
+Longview,9440422,46.1061,-122.9542
+Temco Kalama Terminal,9440357,45.9867,-122.8367
+Saint Helens,9439201,45.8633,-122.7962
+Knapp Landing Willow Bar,9440171,45.7417,-122.7550
+Rocky Point,9439189,45.6967,-122.8680
+Portland Morrison Street Bridge,9439221,45.5100,-122.6730
+Vancouver,9440083,45.6317,-122.6970
+Washougal,9440047,45.5783,-122.3820
+Beacon Rock State Park,9440079,45.6203,-122.0203
+Cape Disappointment,9440581,46.2810,-124.0463
+Hammond Oregon,9439011,46.2017,-123.9450
+Cathcart Landing Youngs River,9438772,46.1243,-123.8043
+ASTORIA (Tongue Point) Oreg.,9439040,46.2073,-123.7683
+Skamokawa,9440569,46.2667,-123.4520
+Wauna,9439099,46.1617,-123.4089
+Cape Horn,9440482,46.1517,-123.2900
+Barlow Point,9440483,46.1522,-123.0392
+Longview,9440422,46.1061,-122.9542
+Temco Kalama Terminal,9440357,45.9867,-122.8367
+Saint Helens,9439201,45.8633,-122.7962
+Knapp Landing Willow Bar,9440171,45.7417,-122.7550
+Rocky Point,9439189,45.6967,-122.8680
+Portland Morrison Street Bridge,9439221,45.5100,-122.6730
+Vancouver,9440083,45.6317,-122.6970
+Washougal,9440047,45.5783,-122.3820
+Beacon Rock State Park,9440079,45.6203,-122.0203
+Greenhead Slough,9440650,46.3722,-123.9503
+TOKE POINT,9440910,46.7075,-123.9669
+South Bend Willapa River,9440875,46.6633,-123.7980
+Westport Point Chehalis,9441102,46.9043,-124.1051
+ABERDEEN,9441187,46.9683,-123.8530
+La Push Quillayute River,9442396,47.9133,-124.6369
+Tskawahyah Island Cape Alava,9442705,48.1711,-124.7369
+NEAH BAY,9443090,48.3703,-124.6019
+Sekiu Clallam Bay,9443361,48.2633,-124.2970
+Jim Creek,9443551,48.1872,-124.0625
+Port Angeles,9444090,48.1250,-123.4400
+NAS Whidbey Island,9447973,48.3428,-122.6858
+PORT TOWNSEND,9444900,48.1129,-122.7595
+Foulweather Bluff,9445016,47.9267,-122.6170
+Bangor Wharf,9445133,47.7483,-122.7270
+Union,9445478,47.3583,-123.0980
+SEATTLE (Madison St.) Elliott Bay,9447130,47.6026,-122.3393
+Bremerton Sinclair Inlet Port Orchard,9445958,47.5617,-122.6230
+Tacoma Commencement Bay Sitcum Waterway,9446484,47.2667,-122.4133
+Wauna Carr Inlet,9446291,47.3783,-122.6340
+Yoman Point Anderson Island Balch Passage,9446705,47.1800,-122.6750
+SANDY POINT ANDERSON ISLAND PUGET SOUND,9446804,47.1530,-122.6751
+Budd Inlet Olympia Shoal,9446807,47.0983,-122.8950
+Everett,9447659,47.9800,-122.2230
+Priest Point,9447717,48.0349,-122.2272
+Tulalip,9447773,48.0650,-122.2880
+Spee-Bi-Dah,9448009,48.0883,-122.3223
+Tulare Beach Port Susan,9448043,48.1068,-122.3473
+Greenbank Whidbey Island,9447883,48.1050,-122.5700
+Sneeoosh Point,9448576,48.4000,-122.5480
+Turner Bay Similk Bay,9448657,48.4450,-122.5550
+Deception Pass St. Park Bowman Bay Fidalgo I.,9448614,48.4150,-122.6520
+TELEGRAPH BAY PUGET SOUND,9449988,48.4433,-122.8050
+Swinomish Channel ent. Padilla Bay,9448682,48.4583,-122.5130
+Armitage Island Thatcher Pass,9449932,48.5350,-122.7970
+Village Point Lummi Island,9449161,48.7167,-122.7080
+Rosario East Sound Orcas Island,9449771,48.6467,-122.8700
+Upright Head Lopez Island,9449911,48.5717,-122.8850
+Richardson Lopez Island,9449982,48.4467,-122.9000
+Friday Harbor San Juan Island,9449880,48.5453,-123.0129
+CHERRY POINT,9449424,48.8633,-122.7580
+Blaine Semiahmoo Bay,9449679,48.9917,-122.7650
+POINT ROBERTS PUGET SOUND,9449639,48.9750,-123.0830
+Kanaka Bay San Juan Island,9449856,48.4850,-123.0830
+Hanbury Point Mosquito Pass San Juan I.,9449828,48.5817,-123.1700
+WALDRON ISLAND PUGET SOUND,9449746,48.6868,-123.0376
+Custom House Cove Mary Island,9450296,55.1000,-131.2170
+KETCHIKAN,9450460,55.3318,-131.6262
+Burrough Bay Behm Canal,9450914,56.0383,-131.0950
+Metlakatla Port Chester,9450314,55.1283,-131.5670
+Lindeman Cove,9450625,55.6017,-132.5120
+Bradfield Canal Ernest Sound,9451012,56.1833,-131.5720
+Point Harrington,9451005,56.1783,-132.6970
+Thoms Point Zimovia Strait,9450970,56.1183,-132.0780
+Village Rock Zimovia Strait,9451037,56.2200,-132.2970
+Madan Bay,9451152,56.3922,-132.1690
+Wrangell Wrangell Island,9451204,56.4700,-132.3870
+HYDABURG SUKKWAN STRAIT,9450364,55.2017,-132.8230
+Craig Klawock Inlet,9450551,55.4883,-133.1420
+Nossuk Bay Tonowek Bay,9450711,55.7217,-133.3500
+El Capitan Passage W. of Aneskett Pt.,9450997,56.1633,-133.3300
+El Capitan Passage Dry Pass,9450998,56.1633,-133.4130
+Bushy Island Snow Passage,9451074,56.2767,-132.9850
+Reef Point Stikine Strait,9451124,56.3533,-132.5530
+Point Lockwood Woewodski Island,9451263,56.5583,-132.9630
+Beecher Pass,9451287,56.5950,-132.9870
+Anchor Point,9451317,56.6383,-132.9270
+Papke's Landing,9451346,56.6767,-132.9330
+Turn Point,9451434,56.8000,-132.9800
+Monte Carlo Island,9451247,56.5350,-133.7670
+The Summit,9451349,56.6824,-133.7369
+Entrance Island,9451438,56.8117,-133.7870
+Kake Harbor Keku Strait,9451528,56.9483,-133.8947
+Leconte Bay,9451422,56.7883,-132.5020
+Saginaw Bay Kuiu Island,9451497,56.9033,-134.3031
+The Brothers,9451785,57.2950,-133.7970
+JUNEAU,9452210,58.2983,-134.4120
+Chilkat Inlet,9452421,59.1700,-135.4000
+Skagway Taiya Inlet,9452400,59.4500,-135.3270
+Port Alexander Baranof Island,9451054,56.2467,-134.6470
+Red Bluff Bay,9451467,56.8567,-134.7230
+Baranof Warm Spring Bay,9451625,57.0883,-134.8250
+Hawk Inlet Entrance,9452294,58.0850,-134.7770
+Golf Island Necker Island,9451421,56.7867,-135.3930
+SITKA,9451600,57.0517,-135.3420
+Whitestone Narrows Neva Strait,9451741,57.2500,-135.5670
+Scraggy Island,9451805,57.3400,-135.7070
+Serguis Narrows,9451853,57.4100,-135.6270
+Povorotni Island Pogibshi Point,9451936,57.5150,-135.5550
+Pelican Harbor Lisianski Inlet AK,9452611,57.9578,-136.2268
+Elfin Cove Port Althorp,9452634,58.1947,-136.3469
+Hoonah Port Fredrick,9452438,58.1076,-135.4442
+Tarr Inlet Glacier Bay,9452749,58.9648,-136.8776
+Yakutat Yakutat Bay,9453220,59.5485,-139.7334
+CORDOVA,9454050,60.5583,-145.7550
+Wooded Islands,9454562,59.8750,-147.4030
+5 miles NE of Point Brazil Montague Island,9454616,60.0250,-147.5920
+Perch Point,9454561,60.1267,-147.3950
+Seal Island,9454564,60.4250,-147.4100
+Guguak,9454751,60.1000,-148.0380
+Point Elrington Elrington Island,9454814,59.9383,-148.2270
+Snug Harbor Knight Island,9454662,60.2500,-147.7170
+Bay of Isles South Arm,9454652,60.3667,-147.7000
+Herring Point,9454691,60.4750,-147.7920
+VALDEZ Port Valdez,9454240,61.1242,-146.3631
+Whittier Passage Canal,9454949,60.7783,-148.6650
+Perry Island (South Bay),9454721,60.6717,-147.9320
+Seward Resurrection Bay,9455090,60.1200,-149.4267
+Aialik Bay North end,9455145,59.9533,-149.7150
+Aialik Sill Aialik Bay,9455146,59.8850,-149.7180
+Agnes Cove Aialik Peninsula,9455120,59.7733,-149.5880
+Camp Cove Aialik Bay,9455151,59.6933,-149.7480
+Crater Bay Harris Bay,9455159,59.7133,-149.7870
+Upper Northwestern Fiord Harris Bay,9455204,59.7900,-150.0320
+SELDOVIA Kachemak Bay,9455500,59.4405,-151.7199
+Kasitsna Bay Kachemak Bay,9455517,59.4683,-151.5650
+Homer Coal Point Kachemak Bay,9455558,59.6014,-151.4106
+Bear Cove Kachemak Bay,9455595,59.7250,-151.0230
+Anchor Point,9455606,59.7720,-151.8670
+Ninilchik,9455653,60.0550,-151.6820
+Cape Kasilof,9455711,60.3367,-151.3800
+Chinulna Point Cook Inlet,9455735,60.5033,-151.2830
+NIKISKI,9455760,60.6833,-151.3980
+North Foreland,9455869,61.0433,-151.1630
+Point Possession,9455866,61.0367,-150.4130
+Fire Island,9455912,61.1733,-150.2130
+ANCHORAGE Knik Arm,9455920,61.2375,-149.8904
+Port MacKenzie,9455934,61.2683,-149.9170
+Goose Creek Knik Arm Cook Inlet,9455963,61.3933,-149.8470
+Kalgin Island (north end) Cook Inlet,9455732,60.5117,-151.9520
+Port Lions AK,9457391,57.8735,-152.8671
+Ouzinkie Spruce Island,9457287,57.9217,-152.4980
+KODIAK Womens Bay,9457292,57.7303,-152.5139
+Old Harbor,9457527,57.2028,-153.3039
+Japanese Bay,9457634,56.9600,-153.6870
+Alitak Lazy Bay,9457804,56.8974,-154.2480
+Larsen Bay,9457724,57.5333,-153.9900
+Terror Bay,9457493,57.7440,-153.1955
+Nachalni Island,9457407,57.9783,-152.9250
+Uzkosti Point,9457376,57.9283,-152.8120
+West Raspberry Island,9457535,58.1072,-153.3401
+Nukshak Island Shelikof Strait,9456717,58.3917,-153.9580
+Aguchik Island Kukak Bay,9456901,58.2900,-154.2700
+Puale Bay,9458209,57.7067,-155.3930
+Castle Bay Northwest Arm,9458907,56.2317,-158.3470
+Chowiet Island Semidi Island,9458519,56.0517,-156.6980
+Hump Island Kuiukta Bay,9458964,56.1133,-158.5980
+Mitrofania Island,9459016,55.8900,-158.8200
+Herendeen Island Shumagin Islands,9459163,55.0656,-159.4187
+Bird Island,9459251,54.8352,-159.7596
+SAND POINT POPOF ISLAND,9459450,55.3367,-160.5020
+Zachary Bay Unga Island,9459465,55.3350,-160.6170
+Dolgoi Harbor Dolgoi Island,9459758,55.1217,-161.7920
+King Cove,9459881,55.0599,-162.3261
+Cold Bay,9459949,55.2083,-162.6980
+Isanotski Strait Entrance Ikatan Bay,9462961,54.7784,-163.3643
+Neumans Cove Unimak Island,9462948,54.9667,-163.4400
+False Pass Isanotski Strait,9462955,54.8583,-163.4070
+Cape Chunak AK,9462941,55.0643,-163.5342
+Cape Sarichef,9462787,54.6000,-164.9280
+Scotch Cap,9462808,54.3936,-164.7457
+UNALASKA,9462620,53.8792,-166.5403
+Udamat Bay Sedanka Island,9462645,53.8289,-166.2163
+Nikolski,9462450,52.9406,-168.8713
+Atka Nazan Bay,9461710,52.2319,-174.1725
+SWEEPER COVE Kuluk Bay,9461380,51.8633,-176.6320
+MASSACRE BAY,9460150,52.8400,173.1950
+Tigalda Bay Tigalda Island,9462782,54.1200,-164.9770
+SE Tigalda Island Pacific Ocean,9462786,54.1018,-164.9416
+Rootok Island,9462723,54.0522,-165.5142
+Trident Bay Akun Island,9462721,54.1400,-165.5270
+Akun Cove Akun Island,9462719,54.2333,-165.5330
+Surf Bay Akutan Bay,9462711,54.1508,-165.6150
+Akutan Akutan Island,9462694,54.1333,-165.7773
+Green Bight Akutan Island,9462705,54.1103,-165.6614
+Broad Bight Akutan Island,9462676,54.0646,-165.9371
+Reef Bight Akutan Island,9462662,54.1307,-166.0993
+PORT MOLLER,9463502,55.9900,-160.5620
+Meshik Port Heiden,9464075,56.9083,-158.6849
+Protection Point,9465056,58.5000,-158.7120
+Nushagak Bay (Clarks Point),9465261,58.8483,-158.5520
+Snag Point,9465374,59.0400,-158.4470
+Cape Constantine Nushagak Penninsula,9464961,58.5217,-159.1520
+Kulukak Point Kulukak Bay,9465265,58.8400,-159.6470
+Platinum,9465396,59.0467,-161.8180
+Carter Bay Kuskokwim Bay,9465601,59.3780,-162.0293
+Quinhagak (Kwinak) Kanektok River,9465831,59.7506,-161.9154
+Popokamute (Kokokamute) Kuskokwim River,9466057,60.1233,-162.5004
+Helmick Point southeast of,9466153,60.2703,-162.4102
+Lomavik,9466328,60.5543,-162.2971
+Bethel,9466477,60.8000,-161.7500
+Mekoryuk Mekoryuk River Ent. Nunivak Island,9466217,60.4167,-166.1670
+Nelson Island Tooksook Bay,9466298,60.5167,-165.1330
+Village Cove St. Paul Island,9464212,57.1253,-170.2852
+Dall Point,9466931,61.5317,-166.1480
+Northeast Cape,9468039,63.3167,-168.9670
+Savoonga,9468258,63.6791,-170.5371
+Nunam Iqua (Sheldon Point),9467551,62.5329,-164.8453
+Emmonak Kwiguk Pass Yukon River,9467701,62.7775,-164.5469
+Stebbins Norton Sound,9468151,63.5250,-162.2930
+Unalakleet,9468333,63.8750,-160.7880
+Shaktoolik,9468691,64.3802,-161.2351
+Koyuk Koyuk Inlet,9469031,64.9312,-161.1508
+NOME,9468756,64.4946,-165.4396
+Point Spencer Port Clarence,9469237,65.2567,-166.8470
+Teller Port Clarance,9469239,65.2667,-166.3530
+Lost River Seward Peninsula,9469338,65.3900,-167.1450
+Tin City,9469439,65.5583,-167.9750
+Shishmaref Inlet,9469854,66.2633,-166.0200
+CAPE ESPENBERG KOTZEBUE SOUND,9490096,66.5857,-164.2508
+Deering,9469751,66.0972,-162.7405
+GOODHOPE BAY KOTZEBUE SOUND,9469833,66.2303,-163.9041
+Kotzebue,9490424,66.9017,-162.5820
+Cape Krusenstern,9490571,67.0542,-163.3213
+Red Dog Dock,9491094,67.5758,-164.0644
+Point Hope,9491873,68.3417,-166.8080
+Kivalina,9491253,67.7267,-164.5920
+PRUDHOE BAY,9497645,70.4114,-148.5318
+Barrow Offshore,9494935,71.3601,-156.7299
+Pettegrove Point Dochet Island,8410834,45.1284,-67.1447
+EASTPORT,8410140,44.9046,-66.9829
+Garnet Point Pennamquan River,8410715,44.9233,-67.1300
+Coffins Point,8410714,44.8700,-67.1083
+Gravelly Point Whiting Bay,8410864,44.8233,-67.1517
+Cutler Little River,8411060,44.6570,-67.2047
+Cutler Naval Radio Station,8411250,44.6417,-67.2967
+Millbridge Narraguagus River Maine,8412581,44.5400,-67.8750
+BAR HARBOR,8413320,44.3922,-68.2043
+Mackerel Cove Swans Island,8413825,44.1700,-68.4350
+Ellsworth Union River,8413801,44.5350,-68.4217
+Oceanville Deer Isle,8414249,44.1923,-68.6209
+Pulpit Harbor North Haven Island,8414888,44.1567,-68.8867
+Fort Point Penobscot River,8414721,44.4717,-68.8133
+Bangor,8414612,44.7850,-68.7667
+Rockland,8415490,44.1050,-69.1017
+Thomaston,8415709,44.0717,-69.1817
+Walpole,8416731,43.9333,-69.5800
+Fort Popham Hunniwell Point,8417177,43.7550,-69.7850
+Bath,8417227,43.9250,-69.8150
+PORTLAND,8418150,43.6581,-70.2442
+Pine Point Scarborough River,8418445,43.5450,-70.3333
+Camp Ellis Saco River Entrance,8418606,43.4617,-70.3817
+Biddeford Saco River,8418828,43.4917,-70.4467
+Kennebunkport,8418911,43.3583,-70.4767
+Wells Webhannet River,8419317,43.3200,-70.5633
+Fort Point,8423898,43.0714,-70.7106
+Seavey Island,8419870,43.0800,-70.7417
+Dover Cocheco River,8420411,43.1983,-70.8683
+Plum Island Merrimack River Entrance,8440452,42.8167,-70.8200
+Newburyport,8440466,42.8150,-70.8733
+Salisbury Point,8440273,42.8383,-70.9083
+Merrimacport,8440369,42.8250,-70.9883
+Riverside,8440889,42.7633,-71.0767
+Plum Island Sound (south end),8441241,42.7101,-70.7886
+Essex,8441771,42.6317,-70.7767
+Rockport,8441551,42.6583,-70.6150
+Salem Salem Harbor,8442645,42.5233,-70.8767
+Lynn Lynn Harbor,8443187,42.4583,-70.9433
+Boston Light,8444162,42.3283,-70.8917
+BOSTON,8443970,42.3548,-71.0534
+Amelia Earhart Dam Mystic River,8443662,42.3950,-71.0767
+Chelsea St. Bridge Chelsea River,8443725,42.3867,-71.0233
+Nut Island Quincy Bay,8444525,42.2800,-70.9533
+Weymouth Fore River Bridge,8444788,42.2483,-70.9667
+Scituate Scituate Harbor,8445138,42.2017,-70.7267
+Brant Rock Green Harbor River,8446009,42.0833,-70.6467
+Duxbury Duxbury Harbor,8446166,42.0383,-70.6700
+Plymouth,8446493,41.9600,-70.6617
+Cape Cod Canal Sagamore,8447173,41.7750,-70.5350
+Cape Cod Canal Bournedale,8447191,41.7700,-70.5617
+Cape Cod Canal Bourne Bridge,8447259,41.7450,-70.5933
+Sandwich Marina Cape Cod Canal east entrance,8447180,41.7717,-70.5067
+Sesuit Harbor East Dennis,8447241,41.7517,-70.1550
+Provincetown,8446121,42.0496,-70.1822
+Chatham Stage Harbor,8447505,41.6667,-69.9667
+Chatham Harbor Aunt Lydias Cove,8447435,41.6881,-69.9508
+Saquatucket Harbor,8447495,41.6683,-70.0567
+Hyannis Port,8447605,41.6317,-70.3000
+NANTUCKET,8449130,41.2853,-70.0964
+Martha's Vineyard GPS Buoy,8448875,41.3262,-70.5903
+VINEYARD HAVEN VINEYARD HVN HBR,8448157,41.4583,-70.6000
+Edgartown,8448558,41.3883,-70.5117
+OCEANOGRAPHIC INSTITUTION,8447930,41.5236,-70.6711
+Penikese Island,8448248,41.4500,-70.9217
+Chappaquoit Point West Falmouth Harbor,8447685,41.6050,-70.6517
+Gray Gables,8447295,41.7350,-70.6233
+Cape Cod Canal RR. bridge,8447270,41.7417,-70.6167
+Great Hill,8447368,41.7117,-70.7150
+Piney Point,8447416,41.6950,-70.7200
+Clarks Point,8447712,41.5933,-70.9000
+Round Hill Point,8447842,41.5383,-70.9283
+Sakonnet,8450768,41.4650,-71.1933
+NEWPORT,8452660,41.5050,-71.3267
+West Jamestown Dutch Island Harbor,8453742,41.4967,-71.3867
+Bristol Ferry,8451552,41.6367,-71.2550
+Bristol Highlands,8452154,41.6967,-71.2933
+KICKAMUIT RIVER,8455137,41.7078,-71.2417
+Fall River Massachusetts,8447386,41.7043,-71.1641
+Conimicut Light,8452944,41.7167,-71.3433
+Providence State Pier no.1,8454000,41.8071,-71.4012
+Quonset Point,8454049,41.5868,-71.4110
+East Greenwich,8454578,41.6650,-71.4450
+Wickford,8454538,41.5717,-71.4450
+Point Judith Harbor of Refuge,8455083,41.3633,-71.4900
+Block Island (Old Harbor),8459338,41.1733,-71.5567
+Southwest Point Block Island,8459681,41.1633,-71.6100
+Weekapaug Point Block Island Sound,8458022,41.3283,-71.7617
+WEST MYSTIC MYSTIC RIVER,8460751,41.3433,-71.9750
+Silver Eel Pond Fishers Island N.Y.,8510719,41.2567,-72.0300
+NEW LONDON State Pier,8461490,41.3614,-72.0900
+Clinton Harbor,8463701,41.2683,-72.5317
+New Haven Harbor New Haven Reach,8465705,41.2833,-72.9083
+BRIDGEPORT,8467150,41.1733,-73.1817
+Black Rock Harbor,8467373,41.1567,-73.2133
+Southport Southport Harbor,8467726,41.1333,-73.2833
+SAUGATUCK SAUGATUCK RIVER,8468191,41.1200,-73.3683
+South Norwalk,8468448,41.0967,-73.4150
+Long Neck Point,8468799,41.0383,-73.4800
+Stamford,8469198,41.0383,-73.5467
+WEST MYSTIC MYSTIC RIVER,8460751,41.3433,-71.9750
+Silver Eel Pond Fishers Island N.Y.,8510719,41.2567,-72.0300
+NEW LONDON State Pier,8461490,41.3614,-72.0900
+Clinton Harbor,8463701,41.2683,-72.5317
+New Haven Harbor New Haven Reach,8465705,41.2833,-72.9083
+BRIDGEPORT,8467150,41.1733,-73.1817
+Black Rock Harbor,8467373,41.1567,-73.2133
+Southport Southport Harbor,8467726,41.1333,-73.2833
+SAUGATUCK SAUGATUCK RIVER,8468191,41.1200,-73.3683
+South Norwalk,8468448,41.0967,-73.4150
+Long Neck Point,8468799,41.0383,-73.4800
+Stamford,8469198,41.0383,-73.5467
+Rye Beach,8518091,40.9617,-73.6717
+Throgs Neck Fort Schuyler,8518526,40.8050,-73.7950
+Worlds Fair Marina Flushing Bay,8517251,40.7610,-73.8504
+Port Morris (Stony Point),8518639,40.8017,-73.9067
+Horns Hook East 90th Street,8518668,40.7767,-73.9417
+Queensboro Bridge,8518687,40.7583,-73.9583
+Williamsburg Bridge,8518699,40.7117,-73.9683
+Brooklyn Bridge,8517847,40.7033,-73.9950
+Harlem River Randalls Island,8518643,40.8000,-73.9283
+Willets Point,8516990,40.7933,-73.7817
+KINGS POINT,8516945,40.8103,-73.7650
+Port Washington Manhasset Bay,8516761,40.8317,-73.7033
+Harry Tappen Marina Hempstead Harbor,8516607,40.8346,-73.6524
+Glen Cove Hempstead Harbor,8516614,40.8633,-73.6550
+Bayville Bridge,8516299,40.9033,-73.5500
+Cold Spring Harbor,8516061,40.8733,-73.4700
+Eatons Neck Point,8515786,40.9533,-73.4000
+Lloyd Harbor Huntington Bay,8515921,40.9100,-73.4317
+Northport Northport Bay,8515586,40.9000,-73.3533
+Port Jefferson,8514560,40.9500,-73.0767
+Cedar Beach,8514422,40.9650,-73.0433
+Northville,8512987,40.9817,-72.6450
+Mattituck Inlet,8512668,41.0150,-72.5617
+Plum Gut Harbor Plum Island,8511236,41.1717,-72.2050
+Orient,8511671,41.1367,-72.3067
+Greenport,8511907,41.1010,-72.3612
+Sag Harbor,8511629,41.0033,-72.2967
+South Jamesport,8512735,40.9350,-72.5817
+Lake Montauk,8510448,41.0733,-71.9350
+MONTAUK FORT POND BAY,8510560,41.0483,-71.9594
+Ponquoque Point,8512451,40.8500,-72.5033
+Shinnecock Yacht Club Penniman Creek,8512769,40.8186,-72.5866
+Shinnecock Inlet (ocean),8512354,40.8367,-72.4800
+Moriches Inlet,8513398,40.7644,-72.7560
+Moriches Coast Guard Station,8513388,40.7867,-72.7500
+Smith Point Bridge Narrow Bay,8513825,40.7383,-72.8683
+Fire Island Coast Guard Station,8515186,40.6267,-73.2600
+Seaview Ferry Dock,8514779,40.6493,-73.1506
+Patchogue,8514322,40.7500,-73.0000
+Point Lookout (marina) Jones Inlet,8516402,40.5939,-73.5840
+Green Island,8516155,40.6233,-73.5017
+Baldwin Parsonage Cove Hempstead Bay,8516501,40.6333,-73.6167
+Long Beach Bridgewater Yacht Club New York,8516663,40.5963,-73.6551
+Bay Park Hewlett Bay,8516661,40.6300,-73.6700
+East Rockaway Inlet Atlantic Beach,8516881,40.5950,-73.7433
+Kingsborough Sheepshead Bay,8517756,40.5812,-73.9338
+Norton Point Head of Bay,8516891,40.6350,-73.7467
+North Channel Bridge Grassy Bay,8517201,40.6450,-73.8367
+USCG Station NY,8519050,40.6120,-74.0599
+NEW YORK (The Battery),8518750,40.7006,-74.0142
+Dyckman Street Ferry Slip,8518902,40.8683,-73.9333
+Haverstraw,8518924,41.2183,-73.9633
+Beacon Flushkill,8518934,41.5000,-73.9833
+Hyde Park,8518951,41.7833,-73.9500
+TURKEY POINT HUDSON RIVER,8518962,42.0139,-73.9392
+ALBANY,8518995,42.6500,-73.7467
+BAYONNE BRIDGE STATEN ISLAND,8519483,40.6367,-74.1417
+Port Reading Arthur Kill,8531142,40.5550,-74.2450
+Great Kills Harbor,8519436,40.5433,-74.1400
+Keasbey,8531262,40.5083,-74.3117
+Sayreville,8531390,40.4783,-74.3567
+Old Bridge South River,8531369,40.4167,-74.3633
+New Brunswick,8531463,40.4883,-74.4350
+Cheesequake Creek Garden State Parkway,8531223,40.4533,-74.2733
+SANDY HOOK (Fort Hancock),8531680,40.4669,-74.0094
+Toms River (town) Toms River,8533051,39.9500,-74.1983
+Barnegat Inlet USCG Station,8533615,39.7617,-74.1117
+Tuckerton Shooting Thorofare Little Egg Inlet,8534319,39.5083,-74.3250
+ATLANTIC CITY OCEAN,8534720,39.3550,-74.4183
+Ventnor City ocean pier,8534770,39.3350,-74.4767
+Longport (inside) Great Egg Harbor Inlet,8534836,39.3083,-74.5333
+Tuckahoe Tuckahoe River,8534883,39.2950,-74.7483
+Mays Landing Great Egg Harbor River,8534468,39.4483,-74.7283
+Ocean Drive bridge,8535375,39.1217,-74.7167
+Stone Harbor Great Channel,8535581,39.0567,-74.7650
+Wildwood Crest ocean pier,8535835,38.9750,-74.8233
+Brandywine Shoal Light,8555889,38.9867,-75.1133
+Cape May ferry terminal,8536110,38.9678,-74.9597
+Bidwell Creek entrance,8536581,39.1283,-74.8917
+Bivalve Maurice River,8535055,39.2325,-75.0328
+Fortescue Creek,8536931,39.2383,-75.1750
+Ship John Shoal,8537121,39.3054,-75.3767
+LEWES (BREAKWATER HARBOR),8557380,38.7828,-75.1192
+Mahon River entrance,8554399,39.1850,-75.4000
+REEDY POINT,8551910,39.5583,-75.5733
+Chesapeake City Maryland,8573927,39.5267,-75.8100
+Delaware City,8551762,39.5817,-75.5883
+Indian River Inlet (Coast Guard Station),8558690,38.6100,-75.0700
+Marcus Hook Pa.,8540433,39.8117,-75.4094
+Paulsboro Mantua Creek N.J.,8538512,39.8350,-75.2383
+Philadelphia Municipal Pier 11 Pa.,8545530,39.9533,-75.1383
+PHILADELPHIA US Coast Guard Station Pa.,8545240,39.9333,-75.1417
+Bridesburg Philadelphia Pa.,8546252,39.9833,-75.0750
+Burlington N.J.,8539094,40.0800,-74.8733
+Fieldsboro N.J.,8539487,40.1367,-74.7367
+Newbold Pa.,8548989,40.1373,-74.7519
+Trenton N.J.,8539993,40.1883,-74.7550
+OCEAN CITY (FISHING PIER),8570280,38.3267,-75.0833
+Ocean City Inlet,8570283,38.3283,-75.0917
+Southern Chincoteague Island,8630315,37.9024,-75.4079
+Chincoteague Channel (south end),8630308,37.9067,-75.4050
+Chincoteague Island USCG Station,8630249,37.9317,-75.3833
+Jesters Island,8630111,37.9817,-75.3017
+Buntings Bridge,8570691,38.1389,-75.1835
+Public Landing,8570649,38.1483,-75.2850
+South Point Sinepuxent Neck,8570536,38.2150,-75.1917
+Snowhill city park,8571359,38.1783,-75.3967
+Crisfield Little Annemessex River,8571091,37.9767,-75.8633
+Ewell Smith Island,8571117,37.9950,-76.0317
+Salisbury Wicomico River,8571616,38.3650,-75.6067
+Vienna,8571773,38.4833,-75.8183
+McCreedy's Creek Fishing Bay,8571559,38.3000,-76.0050
+Bishops Head Hooper Strait,8571421,38.2200,-76.0383
+Barren Island,8571579,38.3417,-76.2650
+Smithville Road Bridge Beaverdam Creek,8571702,38.4283,-76.2367
+Cambridge,8571892,38.5742,-76.0722
+Hillsboro Tuckahoe Creek,8572669,38.9167,-75.9450
+Poplar Island,8572271,38.7583,-76.3750
+Love Point,8572955,39.0317,-76.3017
+Crumpton,8573349,39.2450,-75.9250
+Matapeake Kent Island,8572770,38.9567,-76.3550
+Kent Point Marina,8572467,38.8367,-76.3733
+Tolchester Beach,8573364,39.2134,-76.2445
+Sassafras River Betterton,8573704,39.3717,-76.0633
+Town Point Wharf,8573903,39.5033,-75.9167
+Havre de Grace,8574070,39.5367,-76.0900
+Pond Point Bush River,8574459,39.3883,-76.2550
+BALTIMORE Fort McHenry,8574680,39.2667,-76.5783
+Fort McHenry Marsh,8574683,39.2617,-76.5850
+Annapolis (US Naval Academy),8575512,38.9833,-76.4816
+Long Beach,8577004,38.4650,-76.4733
+Cove Point,8577188,38.3917,-76.3983
+Solomons Island,8577330,38.3172,-76.4508
+Lower Marlboro,8579542,38.6550,-76.6833
+Lewisetta Va.,8635750,37.9954,-76.4646
+Colonial Beach Va.,8635150,38.2517,-76.9600
+Dahlgren Upper Machodoc Creek Va.,8635027,38.3197,-77.0366
+WASHINGTON Washington Channel D.C.,8594900,38.8733,-77.0217
+Bladensburg Md.,8579997,38.9333,-76.9383
+Wachapreague Wachapreague Channel,8631044,37.6078,-75.6858
+Rudee Inlet interior channel,8639207,36.8317,-75.9733
+Kiptopeke Beach,8632200,37.1652,-75.9884
+Gaskins Point Occohannock Creek,8632869,37.5567,-75.9167
+Tangier Island,8633532,37.8283,-75.9933
+Saxis Starling Creek,8633777,37.9217,-75.7283
+Lewisetta Va.,8635750,37.9954,-76.4646
+Colonial Beach Va.,8635150,38.2517,-76.9600
+Dahlgren Upper Machodoc Creek Va.,8635027,38.3197,-77.0366
+WASHINGTON Washington Channel D.C.,8594900,38.8733,-77.0217
+Bladensburg Md.,8579997,38.9333,-76.9383
+Windmill Point,8636580,37.6161,-76.2900
+Wares Wharf,8635985,37.8733,-76.7833
+Park Turn,8635257,38.2133,-77.2433
+Yorktown USCG Training Center,8637689,37.2265,-76.4788
+Gloucester Point,8637624,37.2467,-76.5000
+Lester Manor,8636653,37.5833,-76.9900
+HAMPTON ROADS (Sewells Point),8638610,36.9467,-76.3300
+Lafayette River,8638671,36.8842,-76.2759
+Western Branch,8638339,36.8232,-76.3991
+Portsmouth Naval Shipyard,8638660,36.8217,-76.2933
+Money Point,8639348,36.7783,-76.3017
+Fort Eustis (MARAD),8638017,37.1382,-76.6227
+Kingsmill,8638424,37.2200,-76.6633
+Scotland,8638433,37.1850,-76.7833
+Jamestown,8637712,37.2201,-76.7914
+Lanexa Chicahomny River,8638445,37.4033,-76.9117
+Tettington James River,8638450,37.2400,-76.9433
+Willcox Wharf Charles City,8638464,37.3150,-77.0983
+City Point Hopewell,8638481,37.3133,-77.2700
+Puddledock Appomattox River,8638489,37.2667,-77.3717
+Richmond Deepwater Terminal James River,8636941,37.4596,-77.4208
+Richmond (river locks),8638495,37.5250,-77.4200
+CHESAPEAKE BAY BRIDGE TUNNEL,8638863,36.9667,-76.1133
+CBBT CHESAPEAKE CHANNEL,8638901,37.0329,-76.0833
+Lewisetta Va.,8635750,37.9954,-76.4646
+Colonial Beach Va.,8635150,38.2517,-76.9600
+Dahlgren Upper Machodoc Creek Va.,8635027,38.3197,-77.0366
+WASHINGTON Washington Channel D.C.,8594900,38.8733,-77.0217
+Bladensburg Md.,8579997,38.9333,-76.9383
+Southport,8659084,33.9150,-78.0183
+Zekes Island,8658741,33.9500,-77.9517
+Sunny Point Army Base Wharf no.3,8658579,34.0233,-77.9467
+WILMINGTON,8658120,34.2275,-77.9536
+DUCK PIER,8651370,36.1833,-75.7467
+OREGON INLET MARINA,8652587,35.7950,-75.5481
+Oregon Inlet (USCG Station),8652678,35.7683,-75.5267
+Roanoke Marshes Light Croatan Sound,8652547,35.8117,-75.7000
+Oyster Creek Croatan Sound,8652437,35.8450,-75.6550
+Manns Harbor Croatan Sound,8652247,35.9033,-75.7700
+CAPE HATTERAS FISHING PIER,8654400,35.2233,-75.6350
+Hatteras (ocean),8654467,35.2086,-75.7042
+Peter's Ditch,8653951,35.3501,-75.5120
+Ocracoke Ocracoke Island,8654792,35.1150,-75.9883
+Cape Lookout Bight,8656841,34.6133,-76.5383
+Davis Core Sound,8656201,34.7968,-76.4555
+Beaufort Duke Marine Lab,8656483,34.7200,-76.6700
+Core Creek Bridge,8656084,34.8250,-76.6900
+Atlantic Beach,8656590,34.6933,-76.7117
+SpoonersCreek,8656467,34.7250,-76.8033
+Wrightsville Beach,8658163,34.2133,-77.7867
+Oak Island Yaupon Beach,8659182,33.9017,-78.0817
+Sunset Beach Pier,8659897,33.8650,-78.5067
+MYRTLE BEACH SPRINGMAID PIER,8661070,33.6550,-78.9183
+Garden City Pier (ocean),8661437,33.5750,-78.9967
+Garden City Bridge Main Creek,8661419,33.5783,-79.0033
+Oaks Creek upper end,8661684,33.5117,-79.0683
+Bennet's Dock Pawleys Island Creek,8661989,33.4350,-79.1267
+Pawleys Island Pier (ocean),8662006,33.4317,-79.1167
+Ward's Dock Pawleys Inlet,8662071,33.4117,-79.1350
+Clambank Creek Goat Island North Inlet,8662299,33.3333,-79.1933
+Windsor Plantation Black River,8662953,33.4150,-79.2500
+Waccamaw River Entrance,8662931,33.3667,-79.2550
+Thoroughfare Creek entrance,8661703,33.5067,-79.1450
+Bucksport,8661139,33.6467,-79.0950
+Capers Creek South Capers Island,8664941,32.8567,-79.7067
+CHARLESTON (Customhouse Wharf),8665530,32.7808,-79.9236
+Goose Creek entrance,8664662,32.9100,-79.9517
+General Dynamics Pier,8664022,33.0083,-79.9233
+Cainhoy,8664545,32.9267,-79.8300
+I-526 bridge,8665099,32.8367,-80.0217
+Fripps Inlet Hunting Island Bridge,8668498,32.3400,-80.4650
+Beaufort,8667999,32.4300,-80.6750
+Skull Creek north entrance Hilton Head Island,8668918,32.2667,-80.7367
+Corning Landing Whale Branch,8667633,32.5025,-80.7841
+SAVANNAH RIVER ENTRANCE FORT PULASKI,8670870,32.0367,-80.9017
+Port Wentworth,8670424,32.1433,-81.1417
+Halfmoon Reef Halfmoon River,8671314,31.9633,-80.9433
+Priest Landing Wilmington River,8671315,31.9633,-81.0117
+Skidaway Institute Skidaway River,8671086,31.9900,-81.0233
+Bear River (Range 'A' Light),8672667,31.7933,-81.1817
+Bear River Entrance,8673171,31.7230,-81.1417
+Sunbury Medway River,8672875,31.7667,-81.2783
+South Newport River (Daymark 135),8674301,31.5750,-81.1900
+Daymark 156 Head of Mud River,8674975,31.4867,-81.3200
+Rockdedundy River (Daymark 185),8675761,31.3739,-81.3339
+St. Simons Light,8677344,31.1317,-81.3967
+Howe Street Pier Brunswick,8677406,31.1446,-81.4968
+Crispen Island,8676808,31.2133,-81.5500
+Raccoon Key Spit,8678124,31.0148,-81.4560
+Bailey Cut 0.8 mile west of,8678322,30.9850,-81.5917
+Kings Bay Navy Base,8679511,30.7967,-81.5150
+Seacamp Dock Cumberland Island,8679758,30.7633,-81.4717
+St. Marys,8679964,30.7200,-81.5483
+Crandall,8720004,30.7217,-81.6217
+Chester Bells River,8720023,30.6833,-81.5333
+Lofton Lanceford Creek,8720051,30.6433,-81.5233
+FERNANDINA BEACH Amelia River,8720030,30.6714,-81.4658
+Nassauville,8720098,30.5683,-81.5150
+Edwards Creek 1 mi. above entrance,8720145,30.5017,-81.5417
+Mayport Naval Station Degausing Structure,8720214,30.3967,-81.3950
+Mayport Naval Station Water Treatment Dock,8720211,30.4000,-81.4133
+MAYPORT (BAR PILOT DOCK),8720218,30.3982,-81.4279
+Sisters Creek,8720196,30.4167,-81.4533
+Clapboard Creek Pelotes Island,8720198,30.4067,-81.5100
+Dame Point,8720219,30.3867,-81.5583
+Cedar Heights Broward River,8720189,30.4367,-81.6417
+Sherwood Forest,8720213,30.4200,-81.7283
+Phoenix Park,8720225,30.3833,-81.6367
+Jacksonville Long Branch,8720242,30.3600,-81.6200
+Jacksonville Main Street Bridge,8720226,30.3200,-81.6583
+I-295 bridge (west end),8720357,30.1917,-81.6917
+Peoria Point Doctors Lake,8720406,30.1200,-81.7583
+Black Creek S.C.L. RR. bridge,8720434,30.0800,-81.7617
+Palatka,8720774,29.6433,-81.6317
+Buffalo Bluff,8720767,29.5950,-81.6817
+Welaka,8720832,29.4767,-81.6750
+State Road 312 Matanzas River,8720582,29.8667,-81.3067
+Crescent Beach Matanzas River,8720651,29.7683,-81.2583
+Matanzas Inlet State Road A1A Bridge,8720692,29.7045,-81.2279
+Bings Landing Matanzas River,8720757,29.6150,-81.2050
+Vero Beach,8722125,27.6317,-80.3717
+North Beach Causeway,8722208,27.4717,-80.3250
+Fort Pierce South Beach Causeway,8722219,27.4567,-80.3233
+Port of Palm Beach,8722588,26.7700,-80.0517
+Miami Miamarina Biscayne Bay,8723165,25.7783,-80.1850
+Jacksonville Beach,8720291,30.2833,-81.3867
+Vilano Beach Tolomato River,8720554,29.9167,-81.3000
+St. Augustine Beach,8720587,29.8567,-81.2633
+Ponce de Leon Inlet,8721147,29.0633,-80.9150
+New Smyrna Beach,8721164,29.0233,-80.9183
+Packwood Place Mosquito Lagoon,8721222,28.9400,-80.8700
+Turtle Mound Mosquito Lagoon,8721223,28.9267,-80.8250
+PORT CANAVERAL (TRIDENT PIER),8721604,28.4158,-80.5931
+Cocoa Beach,8721649,28.3683,-80.6000
+Fort Pierce Inlet Binney Dock,8722213,27.4683,-80.3000
+PGA Boulevard Bridge ICWW,8722548,26.8433,-80.0667
+Lake Worth Pier (ocean),8722670,26.6128,-80.0342
+Ocean Ridge ICWW,8722718,26.5267,-80.0533
+South Delray Beach ICWW,8722761,26.4467,-80.0650
+Lake Wyman ICWW,8722802,26.3700,-80.0700
+Boca Raton Lake Boca Raton,8722816,26.3433,-80.0767
+Hillsboro Inlet Marina,8722859,26.2600,-80.0850
+Lauderdale-by-the-Sea Anglin Fishing Pier,8722899,26.1883,-80.0933
+South Port Everglades ICWW,8722956,26.0817,-80.1167
+Haulover Pier N. Miami Beach,8723080,25.9033,-80.1200
+Miami Harbor Entrance,8723170,25.7683,-80.1317
+GOVERNMENT CUT MIAMI HARBOR ENTRANCE,8723178,25.7633,-80.1300
+Bear Cut Virginia Key,8723214,25.7314,-80.1618
+Cutler Biscayne Bay,8723289,25.6150,-80.3050
+Boca Chita Key Biscayne Bay,8723355,25.5233,-80.1750
+Elliott Key Harbor Elliott Key Biscayne Bay,8723409,25.4533,-80.1967
+Turkey Point Biscayne Bay,8723423,25.4367,-80.3300
+East Arsenicker Card Sound,8723465,25.3733,-80.2900
+Pumpkin Key south end Card Sound,8723506,25.3250,-80.2933
+Little Card Sound bridge,8723534,25.2883,-80.3700
+Key Colony Beach,8723962,24.7183,-81.0167
+VACA KEY USCG STATION FLORIDA BAY,8723970,24.7110,-81.1065
+Boca Chica Marina,8724493,24.5750,-81.7083
+Fleming Key north end,8724571,24.5917,-81.7950
+KEY WEST,8724580,24.5508,-81.8081
+Sand Key Lighthouse Sand Key Channel,8724635,24.4533,-81.8783
+Loggerhead Key Dry Tortugas,8724698,24.6317,-82.9200
+Smith Shoal Light,8724671,24.7183,-81.9215
+Coconut Point,8725319,26.4000,-81.8433
+Carlos Point Estero Bay,8725325,26.4050,-81.8850
+Hendry Creek Estero Bay,8725377,26.4700,-81.8767
+Estero Island Estero Bay,8725351,26.4383,-81.9183
+Fort Myers,8725520,26.6477,-81.8712
+Port Boca Grande Charlotte Harbor,8725577,26.7200,-82.2583
+Bokeelia Charlotte Harbor,8725541,26.7067,-82.1633
+Turtle Bay,8725649,26.7967,-82.1833
+Shell Point Peace River Charlotte Harbor,8725791,26.9883,-81.9933
+Locust Point Hog Island,8725745,26.9300,-82.1367
+Myakka River US 41 bridge,8725837,27.0450,-82.2933
+Pumpkin Bay,8724963,25.8950,-81.5583
+Marco Island Caxambas Pass,8724967,25.9083,-81.7283
+Coon Key,8724964,25.8967,-81.6367
+Marco Big Marco River,8724991,25.9717,-81.7283
+McIlvaine Bay,8724996,25.9850,-81.7017
+Keewaydin island (inside),8725019,26.0250,-81.7683
+NAPLES (outer coast),8725110,26.1317,-81.8075
+Punta Rassa San Carlos Bay,8725391,26.4883,-82.0133
+Tarpon Bay Sanibel Island,8725362,26.4433,-82.0817
+North Captiva Island,8725488,26.6050,-82.2183
+Don Pedro Island State Park Cutoff (south),8725685,26.8550,-82.3033
+Manasota Lemon Bay,8725809,27.0117,-82.4100
+Venice Municipal Airport,8725858,27.0717,-82.4533
+Egmont Key Egmont Channel,8726347,27.6017,-82.7600
+Mullet Key Channel (Skyway),8726364,27.6150,-82.7267
+Port Manatee,8726384,27.6383,-82.5625
+Little Manatee River US 41 Bridge,8726436,27.7050,-82.4483
+ST. PETERSBURG,8726520,27.7606,-82.6269
+NEWMAN BRANCH,8726539,27.7833,-82.4067
+Ballast Point,8726639,27.8900,-82.4800
+McKay Bay entrance,8726667,27.9133,-82.4250
+East Bay Tampa Bay,8726674,27.9231,-82.4214
+Old Port Tampa,8726607,27.8578,-82.5528
+Safety Harbor Old Tampa Bay,8726738,27.9883,-82.6850
+Clearwater Beach,8726724,27.9783,-82.8317
+Anclote Key southern end,8726917,28.1650,-82.8433
+Bayport,8727151,28.5333,-82.6500
+Johns Island Chassahowitzka Bay,8727235,28.6917,-82.6383
+Chassahowitzka Chassahowitzka River,8727246,28.7150,-82.5767
+Mason Creek Homosassa Bay,8727274,28.7617,-82.6383
+Tuckers Island Homosassa River,8727277,28.7717,-82.6950
+Halls River bridge Homosassa River,8727293,28.8000,-82.6033
+Ozello St. Martins River,8727306,28.8250,-82.6583
+Mangrove Pt. Crystal Bay,8727333,28.8700,-82.7233
+Ozello north Crystal Bay,8727328,28.8633,-82.6667
+Dixie Bay Salt River Crystal Bay,8727336,28.8817,-82.6350
+Shell Island north end,8727359,28.9233,-82.6917
+Twin Rivers Marina,8727348,28.9050,-82.6383
+Kings Bay,8727343,28.8983,-82.5983
+CEDAR KEY,8727520,29.1350,-83.0317
+HORSESHOE POINT,8727648,29.4367,-83.2933
+Spring Warrior Creek,8727843,29.9200,-83.6717
+ST. MARKS RIVER ENTRANCE,8728130,30.0783,-84.1783
+Shell Point Walker Creek,8728229,30.0600,-84.2900
+Turkey Point St. James Island,8728360,29.9150,-84.5117
+Dog Island East End,8728408,29.8100,-84.5850
+Lanark St. George Sound,8728412,29.8783,-84.5950
+South Carrabelle Beach,8728488,29.8017,-84.7367
+St. George Island Northeast End,8728486,29.7667,-84.7000
+St. George Island Sikes Cut,8728669,29.6133,-84.9583
+WHITE BEACH EAST BAY,8728694,29.7850,-84.8983
+APALACHICOLA,8728690,29.7267,-84.9817
+Huckleberry Landing Jackson River,8728757,29.7700,-85.0850
+Eleven Mile St. Vincent Sound,8728786,29.7067,-85.1533
+Port Saint Joe St. Joseph Bay,8728912,29.8150,-85.3133
+St. Joseph Point St. Joseph Bay,8728958,29.8733,-85.3900
+White City ICWW,8728853,29.8807,-85.2214
+Panama City,8729108,30.1523,-85.6669
+Panama City Beach,8729210,30.2133,-85.8783
+Overstreet,8728957,29.9967,-85.3700
+Navarre Beach,8729678,30.3767,-86.8650
+PENSACOLA,8729840,30.4044,-87.2112
+Hernandez Point Escambia Bay,8729791,30.4550,-87.1000
+Lora Point Escambia Bay,8729816,30.5150,-87.1617
+Floridatown Escambia Bay,8729824,30.5817,-87.1800
+Holley East Bay,8729702,30.4500,-86.9183
+Shield Point Blackwater River,8729747,30.5817,-87.0150
+Hawkins Rec. Park Blackwater River,8729753,30.6367,-87.0283
+Fishing Bend Santa Rosa Sound,8729806,30.3367,-87.1400
+Woodlawn Beach Santa Rosa Sound,8729736,30.3867,-86.9917
+Big Lagoon,8729909,30.3267,-87.3567
+Blue Angels Park,8729941,30.3869,-87.4288
+Millview Perdido Bay,8729905,30.4183,-87.3567
+Alabama Point,8730667,30.2786,-87.5550
+Gulf Shores ICWW,8731439,30.2799,-87.6843
+DAUPHIN ISLAND,8735180,30.2500,-88.0750
+East Fowl River Hwy 193 Bridge,8735523,30.4436,-88.1139
+West Fowl River Hwy 188 bridge,8738043,30.3766,-88.1586
+Point Clear Mobile Bay,8733821,30.4866,-87.9345
+Dog River Bridge,8735391,30.5652,-88.0880
+Coast Guard Sector Mobile,8736897,30.6483,-88.0583
+Meaher State Park Mobile Bay,8733839,30.6672,-87.9364
+MOBILE Mobile River (State Dock),8737048,30.7083,-88.0433
+William Brooks Park Chichasaw Creek,8737138,30.7819,-88.0736
+Bayou LaBatre Bridge,8739803,30.4057,-88.2477
+Grand Bay NERR Mississippi Sound,8740166,30.4132,-88.4029
+Petit Bois Island Mississippi Sound,8740405,30.2033,-88.4417
+Ship Island Mississippi Sound,8744756,30.2133,-88.9717
+Horn Island Mississippi Sound,8742221,30.2383,-88.6667
+Dock E Port of Pascagoula,8741041,30.3478,-88.5058
+Pascagoula Mississippi Sound,8741196,30.3400,-88.5333
+Graveline Bayou Entrance,8742205,30.3617,-88.6633
+Gulfport Harbor Mississippi Sound,8745557,30.3600,-89.0817
+Handsboro Bridge Bernard Bayou,8745101,30.4067,-89.0267
+St. Louis Bay entrance,8747437,30.3250,-89.3250
+Waveland,8747766,30.2817,-89.3667
+The Rigolets U.S. Highway 90,8761402,30.1667,-89.7367
+New Canal USCG station Lake Pontchartrain,8761927,30.0272,-90.1133
+Shell Beach Lake Borgne,8761305,29.8681,-89.6732
+Grand Pass,8760668,30.1267,-89.2217
+Grand Bay,8760889,29.3866,-89.3801
+Pilottown,8760721,29.1783,-89.2583
+SOUTH PASS,8760551,28.9900,-89.1400
+EAST POINT GRAND ISLE,8761724,29.2633,-89.9567
+Mendicant Island Barataria Bay,8761742,29.3183,-89.9800
+Lafitte Barataria Waterway,8761899,29.6667,-90.1117
+Caminada Pass (bridge),8761826,29.2100,-90.0400
+Port Fourchon,8762075,29.1142,-90.1993
+Leeville Bayou LaFourche,8762084,29.2483,-90.2117
+Golden Meadow Plaisance Canal,8762184,29.3733,-90.2650
+East Timbalier Island Timbalier Bay,8762223,29.0767,-90.2850
+Cocodrie Terrebonne Bay,8762928,29.2450,-90.6617
+E. ISLE DERNIERES LAKE PELTO,8762888,29.0717,-90.6400
+Texas Gas Platform Caillou Bay,8763535,29.1748,-90.9764
+Eugene Island North of Atchafalaya Bay,8764314,29.3731,-91.3839
+Stouts Pass at Six Mile Lake,8764025,29.7433,-91.2300
+Cypremort Point,8765251,29.7134,-91.8800
+Weeks Bay,8765148,29.8372,-91.8375
+Bayou Fearman Vermillion Bay,8765746,29.6744,-92.1352
+Intracoastal City,8765785,29.7830,-92.1556
+Schooner Bayou Vermillion Bay,8765994,29.7581,-92.2638
+Freshwater Bayou,8765969,29.6554,-92.2507
+Freshwater Canal Locks,8766072,29.5517,-92.3052
+Catfish Point Mermentau River,8767095,29.8629,-92.8489
+Calcasieu Pass,8768094,29.7682,-93.3429
+East Calcasieu Lake,8767911,29.9939,-93.2705
+Bulk Terminal,8767961,30.1902,-93.3008
+Lake Charles,8767816,30.2236,-93.2217
+Gum Cove ICWW,8768772,30.0587,-93.5226
+Sabine Pass,8770570,29.7284,-93.8701
+Texas Point Sabine Pass,8770822,29.6894,-93.8419
+Port Arthur,8770475,29.8671,-93.9310
+Rainbow Bridge,8770520,29.9800,-93.8817
+Galveston Bay Entrance North Jetty,8771341,29.3573,-94.7248
+Galveston Bay Entrance South Jetty,8771416,29.3267,-94.6933
+GALVESTON Galveston Channel,8771450,29.3100,-94.7933
+Port Bolivar,8771328,29.3650,-94.7800
+Texas City Galveston Bay,8771262,29.3906,-94.8849
+Eagle Point,8771013,29.4800,-94.9183
+Clear Lake,8770933,29.5633,-95.0667
+Morgans Point Barbours Cut,8770613,29.6817,-94.9850
+Lynchburg Landing San Jacinto River,8770733,29.7649,-95.0789
+Cypress San Jacinot River,8770653,29.8467,-95.0883
+Manchester Houston Ship Channel,8770777,29.7262,-95.2658
+Round Point Trinity Bay,8770559,29.7133,-94.6900
+Umbrella Point Trinity Bay,8770625,29.6800,-94.8683
+Sievers Cove Goat Island,8771165,29.4311,-94.7104
+Rollover Pass,8770971,29.5150,-94.5133
+High Island ICWW,8770808,29.5947,-94.3903
+GALVESTON RAILROAD BRIDGE,8771486,29.3026,-94.8971
+Jamaica Beach West Bay,8771722,29.1986,-94.9883
+San Luis Pass,8771972,29.0810,-95.1313
+Galveston Pleasure Pier,8771510,29.2853,-94.7894
+Sargent ICWW,8772985,28.7714,-95.6172
+Freeport SPIP (ocean),8772471,28.9357,-95.2942
+Freeport Harbor,8772440,28.9483,-95.3083
+Old Brazos River Freeport,8772391,28.9611,-95.3674
+Freeport Entrance Jetty,8772479,28.9303,-95.3059
+East Matagorda,8773146,28.7101,-95.9140
+Matagorda Bay Entrance Channel,8773767,28.4269,-96.3301
+Seadrift,8773037,28.4069,-96.7124
+Aransas Wildlife Refuge,8774230,28.2283,-96.7950
+Copano Bay,8774513,28.1144,-97.0244
+Bayside Copano Bay,8774652,28.0683,-97.9150
+PORT O'CONNOR MATAGORDA BAY,8773701,28.4459,-96.3956
+Port Lavaca,8773259,28.6406,-96.6098
+Nueces Bay,8775244,27.8328,-97.4859
+Aransas Aransas Pass,8775241,27.8366,-97.0391
+Port Aransas,8775237,27.8397,-97.0725
+Conn Brown Harbor Aransas Pass,8775083,27.9081,-97.1353
+Corpus Christi Bob Hall Pier,8775870,27.5800,-97.2167
+Texas State Aquarium USS Lexington,8775296,27.8149,-97.3892
+Packery Channel,8775792,27.6333,-97.2367
+Realitos Pennisula Laguna Madre,8779280,26.2624,-97.2853
+South Padre Island Brazos Santiago Pass,8779749,26.0674,-97.1548
+PADRE ISLAND (south end),8779750,26.0683,-97.1567
+Port Isabel,8779770,26.0612,-97.2155
+Tanapag Harbor Saipan Island,1633227,15.2267,145.7370
+APRA HARBOR GUAM,1630000,13.4434,144.6564
+Pago Bay Guam,1631428,13.4283,144.7969
+CHUUK Moen Island,1840000,7.4467,151.8470
+WAKE ISLAND (U.S.),1890000,19.2907,166.6176
+KWAJALEIN ATOLL (Kwajalein I.),1820000,8.7317,167.7361
+SAND ISLAND MIDWAY ISLANDS,1619910,28.2117,-177.3600
+Port Allen Hanapepe Bay,1611347,21.9033,-159.5920
+NAWILIWILI,1611400,21.9544,-159.3561
+Pearl Harbor Entrance Bishop Point,1612366,21.3300,-157.9670
+Pearl Harbor Ford Island Ferry,1612404,21.3683,-157.9400
+HONOLULU,1612340,21.3067,-157.8670
+MOKU O LOE,1612480,21.4331,-157.7900
+Kaunakakai,1613198,21.0850,-157.0320
+KAHULUI,1615680,20.8950,-156.4767
+Kawaihae,1617433,20.0366,-155.8294
+HILO,1617760,19.7303,-155.0556
+JOHNSTON ATOLL,1619000,16.7383,-169.5300
+Papeete Harbor Fare Ute Point,1732417,-17.5350,-149.5720
+SUVA HARBOR Viti Levu Island,1910000,-18.1333,178.4250
+PAGO PAGO Harbor Tutuila Island,1770000,-14.2767,-170.6894
+Ferry Reach (Biological Station),2695535,32.3700,-64.6950
+St. Georges Island,2695540,32.3734,-64.7033
+SETTLEMENT POINT GRAND BAHAMAS ISLAND,9710441,26.7100,-78.9967
+Bahia Salinas,9759197,17.9514,-67.1966
+MAGUEYES ISLAND,9759110,17.9701,-67.0464
+Penuelas (Punta Guayanilla),9758053,17.9725,-66.7618
+Santa Isabel,9756639,17.9550,-66.4067
+Las Mareas,9755679,17.9283,-66.1583
+Yabucoa Harbor,9754228,18.0551,-65.8330
+Naguabo,9753641,18.1871,-65.7114
+Esperanza Vieques Island,9752695,18.0939,-65.4714
+Isabel Segunda Vieques Island,9752619,18.1525,-65.4438
+Culebra,9752235,18.3009,-65.3025
+Fajardo,9753216,18.3352,-65.6311
+Isla Palominos,9752962,18.3450,-65.5695
+SAN JUAN,9755371,18.4592,-66.1164
+Arecibo,9757809,18.4805,-66.7024
+Aguadilla,9759412,18.4566,-67.1646
+Mayaguez,9759394,18.2189,-67.1625
+Punta Guanajabo Mayagues,9759421,18.1650,-67.1817
+Puerto Real,9759189,18.0748,-67.1888
+Christiansted Harbor St Croix,9751364,17.7477,-64.6984
+LIME TREE BAY ST.CROIX ISLAND,9751401,17.6947,-64.7538
+Fredericksted St. Croix,9751584,17.7133,-64.8833
+Botany Bay St. Thomas Island,9751774,18.3633,-65.0350
+Dorothea Bay Saint Thomas Island,9751768,18.3712,-64.9635
+Water Bay,9751583,18.3489,-64.8642
+CHARLOTTE AMALIE ST. THOMAS ISLAND,9751639,18.3358,-64.9200
+Dog Island St. Thomas,9751494,18.2971,-64.8178
+Lovango Cay St. Johns Island,9751467,18.3607,-64.8035
+Leinster Point Leinster Bay St. Johns Island,9751309,18.3676,-64.7207
+Coral Harbor St. Johns Island,9751373,18.3483,-64.7167
+Lameshur Bay St. Johns Island,9751381,18.3182,-64.7242
+Barbuda,9761115,17.5908,-61.8206
